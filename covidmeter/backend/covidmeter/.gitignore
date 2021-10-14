@@ -1,0 +1,6 @@
+**/migrations/**
+**/media/**
+!**/__init__.py
+**/db.sqlite3
+**/reports.csv
+**/test_dump.json

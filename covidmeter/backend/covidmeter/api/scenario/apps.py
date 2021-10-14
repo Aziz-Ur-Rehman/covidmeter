@@ -1,0 +1,7 @@
+from django.apps import AppConfig
+
+
+class ScenarioConfig(AppConfig):
+    default_auto_field = "django.db.models.BigAutoField"
+    label = "scenario"
+    name = "api.scenario"
